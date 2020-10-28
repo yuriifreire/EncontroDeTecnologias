@@ -10090,6 +10090,10 @@ h3 {
   line-height: 3.1rem;
 }
 
+#atividades {
+  max-width: 100%;
+}
+
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
